@@ -68,6 +68,10 @@ mindmap
       System Programming
       Algorithm Design
       Performance Optimization
+    Problem Solving
+      Competitive Programming
+      Algorithm Challenges
+      Code Optimization
 ```
 
 ---
@@ -81,6 +85,30 @@ mindmap
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAHA&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
+
+---
+
+## 🧠 Competitive Programming & Problem Solving
+
+<div align="center">
+  
+  ### LeetCode Profile
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/tahabouhane?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/tahabouhane/)
+  
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+  
+</div>
+
+### 💻 Coding Challenges & Skills
+- **Problem Solving:** Advanced algorithms and data structures
+- **Mathematical Thinking:** Optimization and computational efficiency  
+- **Programming Contests:** Regular participation in coding competitions
+- **Algorithm Design:** Dynamic programming, graph theory, and more
+
+**🎯 LeetCode Stats:**
+- ✅ **Problems Solved:** Continuously growing
+- 🏆 **Contest Rating:** Active participant
+- 📊 **Focus Areas:** Algorithms, Data Structures, System Design</div>
 
 ---
 
@@ -131,7 +159,8 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
 - 🔭 Developing next-generation IoT sensor networks
 - 🌱 Learning advanced machine learning techniques for edge computing
 - 👯 Looking to collaborate on open-source embedded systems projects
-- 💬 Ask me about **real-time systems, IoT protocols, or data analytics**
+- 🧠 Actively solving algorithmic challenges on **LeetCode**
+- 💬 Ask me about **real-time systems, IoT protocols, data analytics, or competitive programming**
 
 ---
 
@@ -139,10 +168,11 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-aubouhan-234a9326a/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taha)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahaaubouhan@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://playful-kringle-616650.netlify.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://taha-portfolio.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tahabouhane/)
   
 </div>
 
@@ -153,10 +183,10 @@ Other       █░░░░░░░░░░░░░░░░░░░░░  
   ### 💡 *"Innovation is the bridge between imagination and impact"*
   
   ![Profile Views](https://komarev.com/ghpvc/?username=TAHA&color=brightgreen&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/TAHA?label=Follow&style=social)](https://github.com/tahazz5)
+  [![GitHub followers](https://img.shields.io/github/followers/TAHA?label=Follow&style=social)](https://github.com/TAHA)
   
 </div>
 
 ---
 
-⭐️ **From [tahazz5](https://github.com/tahazz5)** - *Building the future, one line of code at a time*
+⭐️ **From [TAHA](https://github.com/TAHA)** - *Building the future, one line of code at a time*
