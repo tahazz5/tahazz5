@@ -52,4 +52,4 @@ Implementations of vector, unique/shared pointers, string, list, matrix, stack, 
 [LeetCode](https://leetcode.com/u/tahabouhane/) ·
 [Email](mailto:tahaaubouhan@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahazz5&show_icons=true&hide_border=true)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahazz5&theme=github_dark)
