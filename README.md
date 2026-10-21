@@ -1,8 +1,7 @@
-# Hi, I'm Taha Aubouhan
+# Hi, I'm Taha 
 
-**C++ Systems & Embedded Software Engineer**
-
-Grenoble INP–Phelma graduate focused on modern C++, operating systems, embedded software, real-time systems, and performance-oriented engineering.
+**C++ Systems & Software 
+focused on modern C++, operating systems, embedded software, real-time systems, and performance-oriented engineering.
 
 - Building low-level and latency-sensitive software in **C++20**
 - Experience with **Linux, STM32, FreeRTOS, networking, concurrency, and CMake**
