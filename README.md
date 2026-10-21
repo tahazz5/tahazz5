@@ -49,7 +49,7 @@ Implementations of vector, unique/shared pointers, string, list, matrix, stack, 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/taha-aubouhan-234a9326a/) ·
+
 [LeetCode](https://leetcode.com/u/tahabouhane/) ·
 [Email](mailto:tahaaubouhan@gmail.com)
 
