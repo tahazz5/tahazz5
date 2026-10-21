@@ -1,6 +1,8 @@
 # Hi, I'm Taha 
 
-**C++ Systems & Software 
+C++ Systems & Software dev :
+
+
 focused on modern C++, operating systems, embedded software, real-time systems, and performance-oriented engineering.
 
 - Building low-level and latency-sensitive software in **C++20**
